@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Mahmoud 👋
 
-<!--
-**Mahmoud-samy-marzouk/Mahmoud-samy-marzouk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Networking student and future network engineer.
 
-Here are some ideas to get you started:
+## About me
+- 🌐 Interested in computer networks, routing, switching and network security
+- 🎓 Studying for the **CCNA** certification
+- 🧪 Practicing labs in **Cisco Packet Tracer**
+- 🔎 Looking for a job or internship in networking / IT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+- CCNA study notes
+- Packet Tracer lab files
+
+## Learning plan
+- [ ] Finish the CCNA syllabus
+- [ ] Upload my Packet Tracer labs and notes here
+- [ ] Build small network design projects
+- [ ] Learn basic Linux and network automation
+
+## Contact
+Open an issue or message me on GitHub.
